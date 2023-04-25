@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerduraoDoJoao.Melanciometro", "VerduraoDoJoao.Melanciometro\VerduraoDoJoao.Melanciometro.csproj", "{547B0C57-C48F-49A1-80AB-66F8A81DB294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{547B0C57-C48F-49A1-80AB-66F8A81DB294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547B0C57-C48F-49A1-80AB-66F8A81DB294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547B0C57-C48F-49A1-80AB-66F8A81DB294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547B0C57-C48F-49A1-80AB-66F8A81DB294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20E9744A-ACC3-4B39-84F0-03E9648F4F3B}
+	EndGlobalSection
+EndGlobal
